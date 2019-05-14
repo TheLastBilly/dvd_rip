@@ -9,11 +9,13 @@ on a drive specified by the user, and rips it into a folder also named by the us
 responsible for any problems cuased by using rip_dvd in any sort of unlawful activities.
 
 ## Requirements
+You'll need to install the following programs before using this script.
+
 * make
 * gcc
 * dvdbackup
 
-You can install them in Ubuntu based systems with the following command
+In Ubuntu based systems you can do so with the following command
 
 ```
 sudo apt install make gcc dvdbackup
