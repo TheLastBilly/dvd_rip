@@ -39,10 +39,11 @@ make
 That's it!
 
 ## Usage
-Run the './rip_dvd.sh' script while inside the rip_dvd folder.
+Run the './rip_dvd.sh' script while inside the rip_dvd folder. Change DRIVE with the name of your disk
+drive. It is usually `/dev/sr0`.
 
 ```
-./rip_dvd.sh
+./rip_dvd.sh DRIVE
 ```
 
 Then, place the DVD you'd like to rip into the DVD tray on your computer and wait until a promt saying:
