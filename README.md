@@ -39,7 +39,7 @@ make
 That's it!
 
 ## Usage
-Run the './rip_dvd.sh' script while inside the rip_dvd folder. Change DRIVE with the name of your disk
+Run the './rip_dvd.sh' script while inside the rip_dvd folder. Change `DRIVE` with the name of your disk
 drive. It is usually `/dev/sr0`.
 
 ```
