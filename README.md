@@ -27,7 +27,7 @@ I always like to do this inside the ~/Downloads folder. You just have to run the
 
 ```
 cd ~/Downloads
-git clone https://github.com/TheLastBilly/dvd_rip/
+git clone https://github.com/TheLastBilly/rip_dvd/
 cd rip_dvd
 ```
 
