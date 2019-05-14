@@ -11,6 +11,7 @@ responsible for any problems cuased by using rip_dvd in any sort of unlawful act
 ## Requirements
 You'll need to install the following programs before using this script.
 
+* git
 * make
 * gcc
 * dvdbackup
@@ -18,15 +19,14 @@ You'll need to install the following programs before using this script.
 In Ubuntu based systems you can do so with the following command
 
 ```
-sudo apt install make gcc dvdbackup
+sudo apt install git make gcc dvdbackup
 ```
 
 ## Installation
 First, use `git clone` to download the latest version of the script, and enter the newly created folder.
-I always like to do this inside the ~/Downloads folder. You just have to run the following command(s).
+You just have to run the following command(s).
 
 ```
-cd ~/Downloads
 git clone https://github.com/TheLastBilly/rip_dvd/
 cd rip_dvd
 ```
