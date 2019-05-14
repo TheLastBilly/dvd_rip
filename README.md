@@ -1,12 +1,14 @@
 # rip_dvd
 ## A simple bash script to rip DVDs with minimal effort
 
-`rip_dvd.sh` is a script that detects whether or not a DVD (or any type of optical media) is inserted 
+`rip_dvd.sh` is a script that detects whether or not a video DVD  is inserted 
 on a drive specified by the user, and rips it into a folder also named by the user. 
 
 ## Disclaimer
-**DO NOT USE THIS SOFTWARE FOR IILEGALY COPYING DVDs, CDs OR ANY OTHER TYPE OF COPYRIGHTED MEDIA**. I'm not
+**DO NOT USE THIS SOFTWARE FOR IILEGALY COPYING DVDs OR ANY OTHER TYPE OF COPYRIGHTED MEDIA**. I'm not
 responsible for any problems cuased by using rip_dvd in any sort of unlawful activities.
+
+This script also only works with video DVDs.
 
 ## Requirements
 You'll need to install the following programs before using this script.
@@ -36,6 +38,11 @@ forum post) with the following command:
 
 ```
 make
+```
+
+Lastly, you need to make the script an executable file.
+```
+chmod +x ./rip_dvd.sh
 ```
 
 That's it!
